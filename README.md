@@ -13,4 +13,4 @@ src="https://img.shields.io/twitter/follow/reechychukz?label=Follow%20me&style=s
 
 📫 You can reach me **[here](mailto:richardchukwuma99g@gmail.com)**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reechychukz)](https://git.io/streak-stats)
