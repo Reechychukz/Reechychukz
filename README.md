@@ -5,10 +5,12 @@
 src="https://img.shields.io/github/last-commit/reechychukz/rechychukz" alt="reechychukz" /> <img
 src="https://img.shields.io/twitter/follow/reechychukz?label=Follow%20me&style=social" alt="reechychukz" /> </p>
 
-<!-- - 🔭 I’m currently working on **making the world a better place**...😁 -->
+<!-- - 🔭 I’m currently working on **making the world a better place**...😁 --
 
 <!-- - 👯 I’m looking to working on **any short-term project** -->
 <!-- - 👯 I’m looking to collaborate on **any interesting project** -->
 
-- 📫 You can reach me **[here](mailto:richardchukwuma99g@gmail.com)**
 
+📫 You can reach me **[here](mailto:richardchukwuma99g@gmail.com)**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
