@@ -2,7 +2,7 @@
 
 <h3 align="left">Welcome To My Github Profile</h4>
 <p align="left"> <img src="https://img.shields.io/github/followers/reechychukz?style=social" alt="reechychukz" /> <img 
-src="https://img.shields.io/github/last-commit/reechychukz/rechychukz" alt="reechychukz" /> <img
+src="https://img.shields.io/github/last-commit/reechychukz/reechychukz" alt="reechychukz" /> <img
 src="https://img.shields.io/twitter/follow/reechychukz?label=Follow%20me&style=social" alt="reechychukz" /> </p>
 
 <!-- - 🔭 I’m currently working on **making the world a better place**...😁 --
