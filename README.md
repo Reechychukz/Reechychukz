@@ -13,4 +13,6 @@ src="https://img.shields.io/github/last-commit/reechychukz/reechychukz" alt="ree
 
 📫 You can reach me **[here](mailto:richardchukwuma99g@gmail.com)**
 
+<!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reechychukz)](https://git.io/streak-stats)
+-->
