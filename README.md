@@ -10,7 +10,7 @@ src="https://img.shields.io/twitter/follow/reechychukz?label=Follow%20me&style=s
 <!-- - 👯 I’m looking to collaborate on **any interesting project** -->
 
 
-📫 You can reach me **[here](mailto:richardchukwuma99g@gmail.com)**
+📫 Send me a an email **[here](mailto:richardchukwuma99g@gmail.com)**
 
 <!---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=reechychukz)](https://git.io/streak-stats)
